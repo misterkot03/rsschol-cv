@@ -21,3 +21,29 @@ In the near future, I see myself as a frontend developer who does not stop devel
 + **Adobe Photoshop(Basics)**
 + **Davinci Resolve(Basics)**
 ***
+###Code Example
+```int main() {
+  int i,a,b,n,j;
+  cin >> n;
+  int arr[n];
+  a = 1000;
+  for(i = 0; i<n; i++)
+    cin >> arr[i];
+  for(i = 0; i<n; i++)
+  {
+    a = (min(a,arr[i]));
+    b = (max(b,arr[i]));
+  }
+ cout << a  << ' ' << b;
+}
+} 
+```
+***
+###Experience
+***
+###Education
++ **School:** Municipal budgetary educational institution "secondary school №5"
++ **University** Irkutsk national research technical university\
+***
+###English
+**B1**(I studied only at school and university, but I really like this language, so I raise my level on my own)
