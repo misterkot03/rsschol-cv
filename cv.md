@@ -1,11 +1,11 @@
+*** 
+# Dmitry Zhilkin
 ***
-#Dmitry Zhilkin
-***
-###Contacts
+### Contacts
 * **Phone:** +7 950 080 89 52 
 * **E-mail:** zhilkin142510@gmail.com
-***
-###A little about myself
+*** 
+### A little about myself
 
 I got acquainted with programming in high school. I really liked this direction, but at that time I still didn't understand what I wanted from life, and unfortunately, I gave up doing it. 
 
@@ -13,7 +13,7 @@ But time passed and I decided to resume studying in this direction. I am a very 
 
 In the near future, I see myself as a frontend developer who does not stop developing his skills and improves his knowledge every day
 ***
-###Skills
+### Skills
 + **C++**
 + **Python**
 + **Pascal**
@@ -21,7 +21,7 @@ In the near future, I see myself as a frontend developer who does not stop devel
 + **Adobe Photoshop(Basics)**
 + **Davinci Resolve(Basics)**
 ***
-###Code Example
+### Code Example
 ```int main() {
   int i,a,b,n,j;
   cin >> n;
@@ -39,11 +39,11 @@ In the near future, I see myself as a frontend developer who does not stop devel
 } 
 ```
 ***
-###Experience
+### Experience
 ***
-###Education
+### Education
 + **School:** Municipal budgetary educational institution "secondary school №5"
 + **University** Irkutsk national research technical university\
 ***
-###English
+### English
 **B1**(I studied only at school and university, but I really like this language, so I raise my level on my own)
